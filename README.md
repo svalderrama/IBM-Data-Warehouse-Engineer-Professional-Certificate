@@ -16,4 +16,4 @@ You will start by provisioning a database instance on Cloud. Next, you will desi
 
 You will then become proficient with querying databases with SQL using SELECT, INSERT, UPDATE and DELETE statements, and learn to filter, sort & aggregate result sets. Next, you will become familiar with common Linux/Unix shell commands and use them to build Bash scripts.
 
-Y​ou will create Data Pipelines for batch and streaming ETL jobs using Apache Airflow and Kafka. Finally, implement data warehouses & create BI dashboards.
+You will create Data Pipelines for batch and streaming ETL jobs using Apache Airflow and Kafka. Finally, implement data warehouses & create BI dashboards.
